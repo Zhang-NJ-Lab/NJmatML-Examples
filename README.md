@@ -4,6 +4,8 @@
 
 请按照define.ipynb操作
 
+只需两个文件：python文件define.ipynb 和 数据文件train1.csv
+
 ### 1.1 pip安装NJmatML库
 
 pip install NJmatML==0.0.3
