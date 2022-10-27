@@ -29,4 +29,4 @@ NJmatML材料机器学习库请参见 https://pypi.org/project/NJmatML
 
 ### 1.3 train1.csv 起始数据，需要放置在python工作文件夹中
 
-### 使用函数: 使用dataML.xxx进行预处理、ML建模 
+### 1.4 使用函数: 使用dataML.xxx进行预处理、ML建模 
